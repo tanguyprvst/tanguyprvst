@@ -5,12 +5,12 @@
 I'm Tanguy! 
 - <i>Currently:</i> Web Developer
 
-<h2>💻 I'm Currently working on</h2>
+<h2>💻 I'm Currently working on:</h2>
 
 - <a href="https://github.com/Antic-Industries">Antic Website</a> (Laravel & VueJs)
 - <a href="https://github.com/Rush-Live">RushLive</a> (NodeJs (Web Socket), VueJs, Lumen)
 
-<h2>👀 Stats</h2>
+<h2>👀 Stats:</h2>
 
 <div>  
   <p align="center">
@@ -18,7 +18,7 @@ I'm Tanguy!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguyprvst" alt="GitHub Stats" />
 </div>
 
-<h2> About me⚡:</h2>
+<h2>⚡ About me:</h2>
  
 - Know more about me: Soon <!--[About Me](link)-->
 - Write to me: [tanguypruvost67@gmail.com](mailto:tanguypruvost67@gmail.com)
