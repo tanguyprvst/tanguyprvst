@@ -20,7 +20,7 @@ I'm Tanguy!
 
 <h2> About me⚡:</h2>
  
-- Know more about me: [About Me](soon)
+- Know more about me: Soon <!--[About Me](link)-->
 - Write to me: [tanguypruvost67@gmail.com](mailto:tanguypruvost67@gmail.com)
 
 <h2>📫 How to reach me:</h2>
