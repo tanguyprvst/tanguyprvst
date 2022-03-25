@@ -3,7 +3,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tanguyprvst)](https://github.com/tanguyprvst) [![GitHub followers](https://img.shields.io/github/followers/tanguyprvst.svg?style=social&label=Follow)](https://github.com/tanguyprvst?tab=followers)
 
 I'm Tanguy! 
-- <i>Currently:</i> French Web Developer
+- <i>Currently:</i> Web Developer
 
 <h2>💻 I'm Currently workng on</h2>
 
@@ -15,10 +15,7 @@ I'm Tanguy!
 <div>  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguyprvst" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanguyprvst" alt="WakaTime" />
-  </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguyprvst" alt="GitHub Stats" />
 </div>
 
 <h2> About me⚡:</h2>
