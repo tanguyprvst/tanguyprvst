@@ -1,21 +1,32 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanguyprvst&theme=dark&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguyprvst&theme=dark&layout=compact&langs_count=10&hide=html,css">
-</p>
+<h2>Hey! 👋</h2>
 
-![Counter](https://gpvc.arturio.dev/tanguyprvst)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tanguyprvst)](https://github.com/tanguyprvst) [![GitHub followers](https://img.shields.io/github/followers/tanguyprvst.svg?style=social&label=Follow)](https://github.com/tanguyprvst?tab=followers)
 
-<!--
-**tanguyprvst/tanguyprvst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tanguy! 
+- <i>Currently:</i> French Web Developer
 
-Here are some ideas to get you started:
+<h2>💻 I'm Currently workng on</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <a href="https://github.com/Antic-Industries">Antic Website (Laravel & VueJs)</a>
+- <a href="https://github.com/Rush-Live">RushLive (Web Socket, VueJs, Lumen)</a>
+
+<h2>👀 Stats</h2>
+
+<div>  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguyprvst" alt="GitHub Stats" /> <br/><br/>
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanguyprvst" alt="WakaTime" />
+  </p>
+</div>
+
+<h2> About me⚡:</h2>
+ 
+- Know more about me: [About Me](soon)
+- Write to me: [tanguypruvost67@gmail.com](mailto:tanguypruvost67@gmail.com)
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:tanguypruvost67@gmail.com">![tanguypruvost67@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/tanguy-pruvost-53456a186/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
