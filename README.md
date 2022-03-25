@@ -5,10 +5,10 @@
 I'm Tanguy! 
 - <i>Currently:</i> Web Developer
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 I'm Currently working on</h2>
 
-- <a href="https://github.com/Antic-Industries">Antic Website (Laravel & VueJs)</a>
-- <a href="https://github.com/Rush-Live">RushLive (Web Socket, VueJs, Lumen)</a>
+- <a href="https://github.com/Antic-Industries">Antic Website</a> (Laravel & VueJs)
+- <a href="https://github.com/Rush-Live">RushLive</a> (NodeJs (Web Socket), VueJs, Lumen)
 
 <h2>👀 Stats</h2>
 
