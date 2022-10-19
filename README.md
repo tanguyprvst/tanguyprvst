@@ -7,8 +7,8 @@ I'm Tanguy!
 
 <h2>💻 I'm Currently working on:</h2>
 
-- <a href="https://github.com/Antic-Industries">Antic Website</a> (Laravel & VueJs)
-- <a href="https://github.com/Rush-Live">RushLive</a> (NodeJs (Web Socket), VueJs, Lumen)
+- <a href="https://github.com/Antic-Industries">Antic Website</a> (Laravel & VueJs): <a href="https://antic.run">Website</a>
+- <a href="https://github.com/Rush-Live">RushLive</a> (NodeJs (Web Socket), VueJs, Lumen): <a href="https://funcraft.live">Website</a>
 
 <h2>👀 Stats:</h2>
 
